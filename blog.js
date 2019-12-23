@@ -52,3 +52,4 @@ function buildPostElement(title, content) {
 
   return card;
 }
+console.log('Hey');
